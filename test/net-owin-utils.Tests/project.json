@@ -1,0 +1,19 @@
+﻿{
+  "version": "1.0.0-*",
+  "testRunner": "xunit",
+
+  "dependencies": {
+    "NETStandard.Library": "1.6.0",
+    "xunit": "2.1.0",
+    "dotnet-test-xunit": "1.0.0-rc2-build10025",
+    "net-owin-utils": "1.0.0",
+    "FluentAssertions": "4.15.0"
+  },
+
+  "frameworks": {
+    "net452": {}
+  },
+  "runtimes": {
+    "win10-x64": {}
+  }
+}
